@@ -1,3 +1,2 @@
 # sum-rand-numbers
-
-#MASTER IN MASTER
+reset master
