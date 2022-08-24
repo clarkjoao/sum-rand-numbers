@@ -1,2 +1,2 @@
 # sum-rand-numbers
-reset master
+dev
